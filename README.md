@@ -33,6 +33,7 @@ Cloud inference costs can become significant as usage grows. Deploying efficient
 Many environments operate with limited, intermittent, or no internet connectivity. Local AI enables intelligent functionality in edge deployments where constant cloud access cannot be guaranteed.
 
 What I'm Exploring:
+
 --> Running efficient Small Language Models on consumer hardware
 --> Optimizing inference performance and memory usage
 --> Building secure, privacy-first AI workflows
