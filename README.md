@@ -11,7 +11,8 @@ Small Language Model (SLM)
 Local Knowledge Base
  ↓
 Response
-______________________________________
+_______________________________________
+
 I'm currently working on a project focused on running an AI assistant entirely on a local machine using a Small Language Model (SLM).
 
 As AI adoption grows, not every use case is a good fit for cloud-based models. In many real-world scenarios, keeping AI local provides significant advantages in security, reliability, and operational efficiency.
